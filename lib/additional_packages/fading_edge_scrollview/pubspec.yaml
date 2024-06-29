@@ -1,0 +1,12 @@
+name: fading_edge_scrollview
+description: A description for the local version of the fading_edge_scrollview package.
+version: 3.0.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  marquee: '>=2.2.3 <3.0.0'
+  

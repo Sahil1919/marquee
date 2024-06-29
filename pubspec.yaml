@@ -11,7 +11,7 @@ environment:
 
 dependencies:
   fading_edge_scrollview: 
-    path: lib/additional_packages/fading_edge_scrollview
+    publish_to: lib/additional_packages/fading_edge_scrollview
   flutter:
     sdk: flutter
 
