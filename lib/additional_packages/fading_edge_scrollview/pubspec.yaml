@@ -8,5 +8,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  marquee: '>=2.2.3 <3.0.0'
   
+
+publish_to: none
